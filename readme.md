@@ -9,7 +9,7 @@ This is my uni homework project written in C with a visual engine.
  * Two player mode
  * One player mode
 
-Please rate!
+Mail me if you have any questions!
 
 ----------------------------
 
