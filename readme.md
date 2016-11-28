@@ -6,8 +6,8 @@ This is my uni homework project written in C with a visual engine.
 
 * Exciting gameplay
 * Modes
-** Two player mode
-** One player mode
+ * Two player mode
+ * One player mode
 
 Please rate!
 
